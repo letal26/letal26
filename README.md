@@ -3,6 +3,11 @@
 Jeune diplômé d'Epitech et passionné par l'écosystème JavaScript / TypeScript. 
 Je conçois des applications web et mobiles robustes, de l'architecture API jusqu'à l'interface utilisateur.
 
+[![Open To Work](https://shields.io)](https://github.com)
+[![LinkedIn](https://shields.io)](www.linkedin.com/in/koffi-ephraim-kouame-977b79197)
+
+
+
 🚀 **Actuellement à la recherche d'une opportunité en tant que Développeur Full Stack**
 
 ### 👥 Expérience en cours
@@ -11,11 +16,25 @@ Je conçois des applications web et mobiles robustes, de l'architecture API jusq
 
 ---
 
-### 🛠️ Stack Technique & Compétences
+## 🛠️ Stack Technique & Compétences
 
-- **Backend :** NestJS, Node.js, WordPress (Développement de thèmes / plugins), PHP, Architecture API REST / GraphQL
-- **Frontend & Mobile :** Next.js, React Native, Vue.js, JavaScript (ES6+), HTML5 / CSS3
-- **Outils & Best Practices :** Git (Conventional Commits), CI/CD, Clean Code
+### Backend & CMS
+[![NestJS](https://shields.io)](https://nestjs.com)
+[![Node.js](https://shields.io)](https://nodejs.org)
+[![PHP](https://shields.io)](https://php.net)
+[![WordPress](https://shields.io)](https://wordpress.org)
+
+### Frontend & Mobile
+[![Next.js](https://shields.io)](https://nextjs.org)
+[![React Native](https://shields.io)](https://reactnative.dev)
+[![Vue.js](https://shields.io)](https://vuejs.org)
+[![JavaScript](https://shields.io)](https://mozilla.org)
+
+### Outils & Intégration
+[![HTML5](https://shields.io)](https://mozilla.org)
+[![CSS3](https://shields.io)](https://mozilla.org)
+[![Git](https://shields.io)](https://git-scm.com)
+
 
 ---
 
