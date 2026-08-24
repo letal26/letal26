@@ -5,12 +5,16 @@ Je conçois des applications web et mobiles robustes, de l'architecture API jusq
 
 🚀 **Actuellement à la recherche d'une opportunité en tant que Développeur Full Stack**
 
+### 👥 Expérience en cours
+- **Développeur Full Stack (Projet d'Organisation) :** Conception et maintenance d'applications web sous WordPress. Collaboration en équipe via Git, intégration de maquettes et logique PHP / JavaScript.
+
+
 ---
 
 ### 🛠️ Stack Technique & Compétences
 
-- **Backend :** NestJS, Node.js, Architecture API REST / GraphQL
-- **Frontend & Mobile :** Next.js, React Native, Vue.js
+- **Backend :** NestJS, Node.js, WordPress (Développement de thèmes / plugins), PHP, Architecture API REST / GraphQL
+- **Frontend & Mobile :** Next.js, React Native, Vue.js, JavaScript (ES6+), HTML5 / CSS3
 - **Outils & Best Practices :** Git (Conventional Commits), CI/CD, Clean Code
 
 ---
